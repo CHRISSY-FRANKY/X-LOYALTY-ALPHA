@@ -43,10 +43,13 @@ Just me at the moment!
 
 ## TO DO
 
+- Display the gigabytes upload/download rate to validate the user's internet speed
+- Zoom out of selenium web browser to capture more usernames
 - Figure out how a username i wasn't following showed up in the list of usernames not following you back
 - Handle the user interupting selenium
 - Refractor parts of the code to be more efficient
 - Figure out how to package it into an .exe to use on any windows computer
+- Enter your own bearer token ID because I'm not paying for unlimited requests
 
 ## Disclaimer :wink:
 
